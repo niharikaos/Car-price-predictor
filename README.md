@@ -1,1 +1,2 @@
 # Car-price-predictor
+Developed a machine learning–based prediction system to estimate car prices using key features such as brand, model, year of manufacture, mileage, fuel type, transmission, and ownership history. Performed data cleaning, feature engineering, and model training to improve price estimation accuracy. Evaluated multiple regression models and visualized predictions to support data-driven decision-making for buyers and sellers.
